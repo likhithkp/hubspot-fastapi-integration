@@ -1,7 +1,7 @@
 
 # Redis, HubSpot, and FastAPI Integration
 
-This project demonstrates how to integrate **Redis**, **HubSpot**, and **FastAPI** to build a scalable backend solution. Redis is used for managing OAuth credentials and session data, while HubSpot’s API is used to manage CRM data. FastAPI is the web framework that provides fast, asynchronous APIs.
+This project demonstrates how to integrate **Redis**, **HubSpot**, and **FastAPI** to build a scalable backend solution. Redis is used here for managing OAuth credentials and session data, while HubSpot’s API is used to manage CRM data. FastAPI is the web framework that provides fast, asynchronous APIs.
 
 ## Features
 
